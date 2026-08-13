@@ -260,7 +260,7 @@ button { font: inherit; }
   box-shadow: none;
 }
 .card img {
-  height: 180px;
+  height: 285px;
   width: 100%;
   object-fit: cover;
   border-radius: 1rem;
